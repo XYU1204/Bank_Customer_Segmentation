@@ -3,10 +3,9 @@
 
 Customer segmentation is the approach of dividing a large and diverse customer base into smaller groups of related customers that are similar in certain ways and relevant to the marketing of a bank’s products and services. By performing segmentation, bank can offer more tailored products and services to customers.
 
-* Prepared stock market data from various sources. Performed portfolio analysis using CAPM (capital asset pricing model).
-* Portfolio Optimization using 2000 Monte Carlo Simulations.
-* Optimize arbitrary initial portfolio weights by maximizing sharpe_ratio using SLSQP (Sequential Least Squares Programming). 
-* On average, the optimizer increased expected annual return by 73.99%, and increase expected sharpe ratio by 25.40%, making the investment more profitable and less violatile at the same time.
+* Using Unsupervised learning (K-Mean Clustering) to perform Customer Segmentation on bank customer data set
+* Visualizing High Dimensional Data in 2D using Principle Component Analysis (PCA), Multidimensional scaling (MDS), and T-distributed Stochastic Neighbor Embedding (tSNE).
+* Applying Dimensionality Reduction by training an Autoencoder neural network.
 
 ## Code and Resources Used 
 **Python Version:** 3.7  
